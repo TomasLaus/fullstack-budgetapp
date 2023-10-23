@@ -1,4 +1,3 @@
-"# ChallengeAlkemy" 
 
 Challenge para aplicar a la aceleración Fullstack. El backend esta realizado con Express, Sequelize y Postgres; y el Frontend esta basado en React, utilizando Chakra como librería.
 
